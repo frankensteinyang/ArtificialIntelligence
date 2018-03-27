@@ -43,3 +43,4 @@ int a;
 void test2() {
 	printf("a = %d", a);
 }
+
